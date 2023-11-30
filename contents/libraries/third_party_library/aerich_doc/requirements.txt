@@ -1,0 +1,4 @@
+tortoise-orm
+pydantic
+aerich
+aiosqlite
